@@ -1,5 +1,7 @@
 # Projects
 
+335Project2.R & 335_project_2.pdf: "How to Tell Normal or Laplace?" R codes and report (collaborated with Ziwen Chen from Grinnell College)
+
 Educational Attainment and Life Satisfaction.docx: "Educational Attainment and Life Satisfaction" (collaborated with Yuejun Chen from Grinnell College)
 
 MAT310FinalProject.docx: "A Suicide Rate Model Based on Economic, Violence and Health Indicators" (collaborated with Yuxi Deng from Grinnell College)
