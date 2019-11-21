@@ -1,4 +1,4 @@
-# Hongyuan's Data Science Projects
+# Data Science Projects
 
 335Project2.R & 335_project_2.pdf: "How to Tell Normal or Laplace?" R codes and report (collaborated with Ziwen Chen from Grinnell College)
 
